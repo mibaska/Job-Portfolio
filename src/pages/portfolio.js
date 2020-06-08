@@ -48,7 +48,7 @@ function Portfolio() {
           <div class="card">
             <img src="./images/villagerbirthdays.jpg" class="card-img-top" alt="..."/>
             <div class="card-body">
-              <h5 class="card-title">Villager Birthdays</h5>
+              <h5 class="card-title">ACNH Villager Birthdays</h5>
               <p class="card-text">This was my third and final project from my coding bootcamp. It is a companion app to Animal Crossing New Horizons. My collaborators in this project were Ashton Beaudoin, Nick A, Scott Manley, and Vandana Sivadasan.</p>
               <a href="https://villagerbirthdays.herokuapp.com/#/" class="btn btn-primary">Enter</a>
             </div>
